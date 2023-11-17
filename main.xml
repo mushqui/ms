@@ -3,26 +3,7 @@
 <layouttype>thumbnail</layouttype
 <sortby>Name</sortby>
 <channels>
-<!--
 
-
-<!--
-<channel>
-<name>]Football ive.Backup</name>
-<externallink>http://fabzmulla.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
-<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLOR purple][B]====>>>>[/B][/COLOR][COLOR lime][B]NOTICE ABOUT THE CUTS[/B][/COLOR][COLOR purple][B]<<<<====[/B][/COLOR]</name>
-<externallink>http://mullafabz.xyz/HOST/LiveTV/notice.txt</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
-<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-<info></info>
-</channel>
--->
 <channel>
 <name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR]</name>
 <externallink>https://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
@@ -32,7 +13,7 @@
 </channel>
 <!--
 <channel>
-<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR].Backup</name>
+<name>mushqui</name>
 <externallink>https://mullafabz.co.za/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
 <thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>

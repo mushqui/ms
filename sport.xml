@@ -4,7 +4,20 @@
 
 
 
+<item>
+<title>test</title>
+<link>
+sublink:LISTSOURCE:https://list.iptvcat.com/my_list/s/2db6083324eca51be2eb21cf42597d90.m3u8 ::LISTNAME:[COLOR grey][B]bt Sports RESOLUTION 1920x1080p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://.azureedge.net/w/playlist.m3u8 ::LISTNAME:[COLOR grey][B]3.NBC Sports RESOLUTION 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://.azureedge.net/w/chunks.m3u8 ::LISTNAME:[COLOR grey][B]4.NBC Sports RESOLUTION 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://stream.joinvisions.net:1935/jorlive/tsport123/index.m3u8 ::LISTNAME:[COLOR grey][B]6.NBC Sports RESOLUTION 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://.azureedge.net/hls/live.m3u8 ::LISTNAME:[COLOR white][B]1.NBC Sports RESOLUTION 1280x720p[/B][/COLOR]::#
 
+sublink:LISTSOURCE:plugin://program.plexus/?mode=1&amp;url=acestream://&amp;name=[COLOR white][B][/B][/COLOR] ::LISTNAME:[COLOR gold][B]ACESTREAM [/B][/COLOR]::#
+</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
+<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
+</item>
 
 
 <item>

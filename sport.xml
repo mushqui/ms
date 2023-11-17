@@ -28,7 +28,7 @@
 <item>
 <title>[COLOR lime][B]18:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Rennes vs Marseille[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/rolando/rolando/96702&amp;name=[COLOR white][B]TV[/B][/COLOR] ::LISTNAME:[COLOR gold][B]1.[FR]CANAL+[/B][/COLOR]::#
+sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://list.iptvcat.com/my_list/s/2db6083324eca51be2eb21cf42597d90.m3u82&amp;name=[COLOR white][B]TV[/B][/COLOR] ::LISTNAME:[COLOR gold][B]1.[FR]monner+[/B][/COLOR]::#
 sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://force102.com:8080/rafetabi/13042018/11353&amp;name=[COLOR white][B]TV[/B][/COLOR] ::LISTNAME:[COLOR gold][B]1.[FR]CANAL+[/B][/COLOR]::#
 sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2446&amp;name=[COLOR white][B]TV[/B][/COLOR] ::LISTNAME:[COLOR gold][B]1.[FR]CANAL+[/B][/COLOR]::#
 sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://31.220.1.190:80/debo/12345/62327&amp;name=[COLOR white][B]TV[/B][/COLOR] ::LISTNAME:[COLOR gold][B]1.[FR]CANAL+[/B][/COLOR]::#

@@ -5,36 +5,18 @@
 
 
 
-<item>
-<title>[COLOR white][B]++=[/B][/COLOR][COLOR orange][B]UK[/B][/COLOR][COLOR white][B]++=[/B][/COLOR]</title>
-<link>.</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<!--
-<item>
-<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B][/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://q3d2s7t6.stackpathcdn.com/live/3/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://q3d2s7t6.stackpathcdn.com/live/3/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN 1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://dr4.anonymousvn.xyz/live/ss3122/playlist.m3u8 ::LISTNAME:[COLOR red][B]SNWL 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://dr4.anonymousvn.xyz/live/ss3122/chunks.m3u8 ::LISTNAME:[COLOR red][B]SNWL 1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
 
 
 
 <item>
-<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B][/B][/COLOR] [COLOR orange][B]NBCSN.{720p}[/B][/COLOR]</title>
+<title>astro mush</title>
 <link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
 <regex>
 <name>get_sxstream</name>
 <expres>href=.*[",'](.*/nbcsn-576p/playlist.*?)[",']</expres>
-<page>http://tvhistories.com/11thjune2018/003/nbcsn.php</page>
-<referer>http://tvhistories.com/11thjune2018/003/nbcsn.php</referer>
+<page>https://dlhd.sx/stream/stream-370.php</page>
+<referer>https://dlhd.sx/stream/stream-370.php</referer>
 </regex>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>

@@ -4,55 +4,12 @@
 
 
 
-<item>
-<title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EFL[/B][/COLOR] [COLOR blue][B]CUP[/B][/COLOR]:[COLOR white][B]Chelsea vs Man City[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://195.24.89.82/MTV_SD/index.m3u8 ::LISTNAME:[COLOR yellow][B]test monner+ RESOLUTION=1280x720pp[/B][/COLOR]::#
-sublink:LISTSOURCE:http://1sd.azureedge.net/hls/live.m3u8 ::LISTNAME:[COLOR yellow][B]ESPN+ RESOLUTION=1280x720pp[/B][/COLOR]::#
-sublink:LISTSOURCE:http://1sd.azureedge.net/hls/live.m3u8 ::LISTNAME:[COLOR yellow][B]ESPN+ RESOLUTION=1280x720pp[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/8.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 1 SportTV 2 Portugal[/B][/COLOR]::#
-sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/725.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]LINK 2 SportTV 2 Portugal[/B][/COLOR]::#
-
-sublink:LISTSOURCE:plugin://program.plexus/?mode=1&amp;url=acestream://&amp;name=[COLOR white][B][/B][/COLOR] ::LISTNAME:[COLOR gold][B]ACESTREAM [/B][/COLOR]::#
-</link>
-<thumbnail>https://www.themillers.co.uk/siteassets/image/efl/efl-logos/carabao-cup-2018-19.jpg</thumbnail>
-<fanart>https://images.performgroup.com/di/library/GOAL/f5/60/carabao-cup-league-cup-efl-cup_72y6p7u7ybxg1fn1daxys5lmf.jpg</fanart>
-</item>
 
 
 
 <item>
-<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Monaco vs Lyon[/B][/COLOR] [COLOR orange][B]beIN.AR.6.576p[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
-<regex>
-<name>get_sxstream</name>
-<expres>href=.*[",'](.*/beinsports6ar-576/playlist.*?)[",']</expres>
-<page>$doregex[get_sxstream1]</page>
-<referer>$doregex[get_sxstream1]</referer>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>href=.*[",'](.*12th_feb_2019/bein6.*?)[",']</expres>
-<page>http://hostsweb.net/android/sportstv/12thfeb2019.php</page>
-<referer>http://hostsweb.net/android/sportstv/12thfeb2019.php</referer>
-</regex>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
+<title>test</title>
+<link>https://dlhd.sx/stream/stream-782.php</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-<item>
-<title>[COLOR lime][B]18:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Rennes vs Marseille[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://list.iptvcat.com/my_list/s/2db6083324eca51be2eb21cf42597d90.m3u82&amp;name=[COLOR white][B]TV[/B][/COLOR] ::LISTNAME:[COLOR gold][B]1.[FR]monner+[/B][/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://force102.com:8080/rafetabi/13042018/11353&amp;name=[COLOR white][B]TV[/B][/COLOR] ::LISTNAME:[COLOR gold][B]1.[FR]CANAL+[/B][/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpremium.selfip.net:8000/aaaaaaa/bbbbbbb/2446&amp;name=[COLOR white][B]TV[/B][/COLOR] ::LISTNAME:[COLOR gold][B]1.[FR]CANAL+[/B][/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://31.220.1.190:80/debo/12345/62327&amp;name=[COLOR white][B]TV[/B][/COLOR] ::LISTNAME:[COLOR gold][B]1.[FR]CANAL+[/B][/COLOR]::#
-
-sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://31.220.1.190:80/debo/12345/197986&amp;name=[COLOR white][B]TV[/B][/COLOR] ::LISTNAME:[COLOR gold][B]1.AR-BEIN.SPORTS.6.SD[/B][/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://31.220.1.190:80/debo/12345/197986&amp;name=[COLOR white][B]TV[/B][/COLOR] ::LISTNAME:[COLOR gold][B]2.AR-BEIN.SPORTS.6.SD[/B][/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://31.220.1.190:80/debo/12345/197986&amp;name=[COLOR white][B]TV[/B][/COLOR] ::LISTNAME:[COLOR gold][B]3.AR-BEIN.SPORTS.6.SD[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
